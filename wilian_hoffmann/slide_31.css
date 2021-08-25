@@ -1,0 +1,63 @@
+
+legend{
+    font-family: verdana; 
+    font-size: 100%;
+}
+.title{ 
+    font-family: verdana; 
+    font-size: 100%; 
+    color: lightskyblue;
+    
+  }
+  label{
+    font-family: verdana; 
+    font-size: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center ;
+    
+  }
+  .in { 
+    font-family: verdana; 
+    width: 80%;
+    background: yellow;
+    border: 2px solid red;
+    border-style: dashed;
+    
+    display: flex;
+  }
+  input { 
+    font-family: verdana; 
+    width: 80%;
+    background: yellow;
+    border: 2px solid red;
+    border-style: dashed;
+    
+    display: flex;
+    
+  }
+  button{
+    font-family: verdana; 
+    font-size: 100%;
+    color: blue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  div{
+      display: flex;
+      justify-content: center;
+  }
+  .conteudo{
+     width: 100%;
+  }
+  form{
+    border: 1px solid;
+    width: 45%;
+  }
+  .dcc{
+      width: 50%;
+  }
